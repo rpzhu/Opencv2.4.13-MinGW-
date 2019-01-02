@@ -1,0 +1,1 @@
+-IC:/opencv/sources/modules/imgproc/include -IC:/opencv/sources/modules/highgui/include -IC:/opencv/sources/modules/core/include -IC:/opencv/sources/include/opencv -IC:/opencv/sources/apps/annotation -IC:/opencv/MinGw_build 

@@ -1,0 +1,2 @@
+C:\Qt\Qt5.7.0\Tools\mingw530_32\bin\ar.exe qc ..\..\lib\libopencv_haartraining_engine.a  CMakeFiles/opencv_haartraining_engine.dir/cvboost.cpp.obj CMakeFiles/opencv_haartraining_engine.dir/cvcommon.cpp.obj CMakeFiles/opencv_haartraining_engine.dir/cvhaarclassifier.cpp.obj CMakeFiles/opencv_haartraining_engine.dir/cvhaartraining.cpp.obj CMakeFiles/opencv_haartraining_engine.dir/cvsamples.cpp.obj CMakeFiles/opencv_haartraining_engine.dir/cvsamplesoutput.cpp.obj
+C:\Qt\Qt5.7.0\Tools\mingw530_32\bin\ranlib.exe ..\..\lib\libopencv_haartraining_engine.a
